@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ISA-position/static/css/main.ce054792.css",
+    "main.js": "/ISA-position/static/js/main.772e6c52.js",
+    "index.html": "/ISA-position/index.html",
+    "main.ce054792.css.map": "/ISA-position/static/css/main.ce054792.css.map",
+    "main.772e6c52.js.map": "/ISA-position/static/js/main.772e6c52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce054792.css",
+    "static/js/main.772e6c52.js"
+  ]
+}
