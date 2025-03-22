@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 
 const App = () => {
-  const url = "http://api.open-notify.org/iss-now.json"
+  const url = "https://api.wheretheiss.at/v1/satellites/25544"
   const [latitude, setLatitude] = useState("") 
   const [longitude, setLongitude] = useState("")
   const [urlMap, setUrlMap] = useState("") 
