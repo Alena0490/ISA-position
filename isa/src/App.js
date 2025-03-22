@@ -37,15 +37,17 @@ const App = () => {
           <p>{longitude}</p>
         </div>
       </div>
-      <iframe
-          src={urlMap}
-          width="50%"
-          height="450"
-          allowFullScreen=""
-          loading="lazy"
-          referrerPolicy="no-referrer-when-downgrade"
-          title="ISS Map"
-        ></iframe>
+      {urlMap && (
+  <iframe
+    src={urlMap}
+    width="50%"
+    height="450"
+    allowFullScreen=""
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+    title="ISS Map"
+  ></iframe>
+)}
     </div>
 
   )
