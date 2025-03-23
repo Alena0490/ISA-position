@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ISA-position/static/css/main.a2c5a72c.css",
-    "main.js": "/ISA-position/static/js/main.5096e25c.js",
+    "main.css": "/ISA-position/static/css/main.1112b8c4.css",
+    "main.js": "/ISA-position/static/js/main.0d36e8c8.js",
     "static/media/space.webp": "/ISA-position/static/media/space.6b195ffdcf86eecb7b3a.webp",
     "index.html": "/ISA-position/index.html",
-    "main.a2c5a72c.css.map": "/ISA-position/static/css/main.a2c5a72c.css.map",
-    "main.5096e25c.js.map": "/ISA-position/static/js/main.5096e25c.js.map"
+    "main.1112b8c4.css.map": "/ISA-position/static/css/main.1112b8c4.css.map",
+    "main.0d36e8c8.js.map": "/ISA-position/static/js/main.0d36e8c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2c5a72c.css",
-    "static/js/main.5096e25c.js"
+    "static/css/main.1112b8c4.css",
+    "static/js/main.0d36e8c8.js"
   ]
 }
