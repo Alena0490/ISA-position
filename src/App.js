@@ -24,7 +24,8 @@ const App = () => {
   }
 
 
-  return <div className="position">
+  return <div className="container">
+    <div className="position">
     <h1>ISS Position</h1>
     <h2>Latitude</h2>
     <p>{latitude}</p>
@@ -39,6 +40,16 @@ const App = () => {
 </a>
 
   </div>
+  <iframe 
+    src= {`https://www.google.com/maps?q=${latitude},${longitude}&z=4&output=embed`}
+    allowFullScreen=""
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+    title="ISS Map"
+  >
+    
+  </iframe>
+</div>
  
 }
 
